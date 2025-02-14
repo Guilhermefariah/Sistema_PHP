@@ -6,5 +6,7 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Login\\Php\\' => array($baseDir . '/src'),
+    'Traits\\' => array($baseDir . '/../traits'),
+    'Models\\' => array($baseDir . '/../models'),
+    'Classes\\' => array($baseDir . '/../classes'),
 );

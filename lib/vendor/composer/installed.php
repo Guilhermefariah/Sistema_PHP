@@ -3,7 +3,7 @@
         'name' => 'login/php',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'f7734b1f7d21cf59f665b97287cce71fb5040003',
+        'reference' => 'a519f28ced0889a497ad27f91caa5fcf868be0ec',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'login/php' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'f7734b1f7d21cf59f665b97287cce71fb5040003',
+            'reference' => 'a519f28ced0889a497ad27f91caa5fcf868be0ec',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

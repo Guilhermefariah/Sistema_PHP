@@ -5,7 +5,7 @@
         "psr-4": {
             "Classes\\": "../classes/",
             "Models\\": "../models/",
-            "Traits": "../traits/"
+            "Traits\\": "../traits/"
         }
     },
     "authors": [
